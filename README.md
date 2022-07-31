@@ -1,2 +1,4 @@
-# pyATBS
-My journey through Automate the Boring Stuff with Python
+# Python Edu
+Still learning Python, using this repo with Codespaces to be able to track and manage exercises, practice programs, etc. 
+
+
